@@ -3,6 +3,7 @@
 
 from common.mysql_client import *
 from common.csv_utils import *
+from common.email_server import *
 
 score_range_csv = 'D:\score_range.csv'
 
@@ -25,6 +26,11 @@ def write_into_csv():
 
 def main():
     write_into_csv()
+    to = ['email@aliyun.com']
+    cc = ['email@aliyun.com']
+    subject = '评分排行榜'
+    content = '评分排行榜数据'
+    send(to, cc, subject, content, [score_range_csv], True)
 
 
 if __name__ == '__main__':
