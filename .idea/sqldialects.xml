@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/bugs/MovieTop.py" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/dataMsg/MovieScore.py" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dataMsg/TopMovie.py" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/CreateTB.py" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/DelTB.py" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/InsertTB.py" dialect="MySQL" />
