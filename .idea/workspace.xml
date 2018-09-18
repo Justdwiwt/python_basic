@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="python basic&#10;&#10;python -version 3.7">
+    <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dataMsg/MovieScore.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bugs/MovieTop.py" beforeDir="false" afterPath="$PROJECT_DIR$/bugs/MovieTop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +95,7 @@
           <entry key="employee" value="2" />
           <entry key="ini" value="1" />
           <entry key="pstat" value="2" />
-          <entry key="py" value="58" />
+          <entry key="py" value="61" />
           <entry key="pyi" value="1" />
           <entry key="sql" value="6" />
           <entry key="txt" value="3" />
@@ -107,7 +107,7 @@
           <entry key="Ini" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Profiler Session" value="2" />
-          <entry key="Python" value="58" />
+          <entry key="Python" value="61" />
           <entry key="PythonStub" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="4" />
@@ -118,18 +118,18 @@
           <entry key="Python Console" value="13" />
           <entry key="dummy" value="12" />
           <entry key="ini" value="94" />
-          <entry key="py" value="13789" />
+          <entry key="py" value="14167" />
           <entry key="sql" value="541" />
-          <entry key="txt" value="70" />
+          <entry key="txt" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="94" />
-          <entry key="PLAIN_TEXT" value="82" />
-          <entry key="Python" value="13781" />
+          <entry key="PLAIN_TEXT" value="104" />
+          <entry key="Python" value="14158" />
           <entry key="RegExp" value="1" />
-          <entry key="SQL" value="513" />
+          <entry key="SQL" value="514" />
           <entry key="Scratch" value="48" />
         </counts>
       </usages-collector>
@@ -137,11 +137,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bugs/MovieTop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
               <folding>
                 <element signature="e#43#52#0" expanded="true" />
                 <marker date="1537270303818" expanded="true" signature="140:145" ph="..." />
@@ -149,6 +149,50 @@
                 <marker date="1537270303818" expanded="true" signature="1084:4771" ph="..." />
                 <marker date="1537270303818" expanded="true" signature="2940:4771" ph="..." />
                 <marker date="1537270303818" expanded="true" signature="4790:4799" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/email_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#43#58#0" expanded="true" />
+                <marker date="1537190573711" expanded="true" signature="445:450" ph="..." />
+                <marker date="1537190573711" expanded="true" signature="2388:2393" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="e#43#76#0" expanded="true" />
+                <marker date="1537271201319" expanded="true" signature="174:318" ph="..." />
+                <marker date="1537271201319" expanded="true" signature="407:408" ph="..." />
+                <marker date="1537271201319" expanded="true" signature="407:412" ph="..." />
+                <marker date="1537271201319" expanded="true" signature="668:730" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#43#80#0" expanded="true" />
+                <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
+                <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
               </folding>
             </state>
           </provider>
@@ -206,6 +250,7 @@
         <option value="$PROJECT_DIR$/common/compress_utils.py" />
         <option value="$PROJECT_DIR$/common/email_server.py" />
         <option value="$PROJECT_DIR$/bugs/MovieTop.py" />
+        <option value="$PROJECT_DIR$/dataMsg/MovieScore.py" />
       </list>
     </option>
   </component>
@@ -215,7 +260,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
@@ -236,7 +281,7 @@
             <path>
               <item name="Py_Basic_37" type="b2602c69:ProjectViewProjectNode" />
               <item name="Py_Basic_37" type="462c0819:PsiDirectoryNode" />
-              <item name="bugs" type="462c0819:PsiDirectoryNode" />
+              <item name="dataMsg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -417,13 +462,21 @@
       <option name="presentableId" value="Default" />
       <updated>1536197876296</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactor MovieTop.py">
+      <created>1537270409541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537270409541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2976695" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22351696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -482,7 +535,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python basic&#10;&#10;python -version 3.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="python basic&#10;&#10;python -version 3.7" />
+    <MESSAGE value="refactor MovieTop.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor MovieTop.py" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -723,36 +777,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding>
-            <element signature="e#43#80#0" expanded="true" />
-            <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
-            <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/csv_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <marker date="1537188153137" expanded="true" signature="93:98" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/email_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#43#58#0" expanded="true" />
-            <marker date="1537190573711" expanded="true" signature="445:450" ph="..." />
-            <marker date="1537190573711" expanded="true" signature="2388:2393" ph="..." />
           </folding>
         </state>
       </provider>
@@ -835,8 +865,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bugs/MovieTop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
           <folding>
             <element signature="e#43#52#0" expanded="true" />
             <marker date="1537270303818" expanded="true" signature="140:145" ph="..." />
@@ -844,6 +874,44 @@
             <marker date="1537270303818" expanded="true" signature="1084:4771" ph="..." />
             <marker date="1537270303818" expanded="true" signature="2940:4771" ph="..." />
             <marker date="1537270303818" expanded="true" signature="4790:4799" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#43#80#0" expanded="true" />
+            <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
+            <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/email_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#43#58#0" expanded="true" />
+            <marker date="1537190573711" expanded="true" signature="445:450" ph="..." />
+            <marker date="1537190573711" expanded="true" signature="2388:2393" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="e#43#76#0" expanded="true" />
+            <marker date="1537271201319" expanded="true" signature="174:318" ph="..." />
+            <marker date="1537271201319" expanded="true" signature="407:408" ph="..." />
+            <marker date="1537271201319" expanded="true" signature="407:412" ph="..." />
+            <marker date="1537271201319" expanded="true" signature="668:730" ph="..." />
           </folding>
         </state>
       </provider>
