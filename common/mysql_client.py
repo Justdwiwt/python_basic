@@ -7,7 +7,7 @@ import datetime
 
 
 def connect_pool():
-    cr = ConfigReader('配置文件绝对路径/db.ini')
+    cr = ConfigReader('D:\\Python_Project\\Py_Basic_37\\config\\db.ini')
     conf = cr.get_mysql_info()
     return pymysql.connections.Connection(host=conf.host,
                                           port=conf.port,

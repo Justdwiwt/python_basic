@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataMsg/TopMovie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/mysql_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/mysql_client.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +15,31 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Py_Basic_37$quickS.coverage" NAME="quickS Coverage Results" MODIFIED="1536983423686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$TestBug.coverage" NAME="TestBug Coverage Results" MODIFIED="1537320551174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$ProxyBug.coverage" NAME="ProxyBug Coverage Results" MODIFIED="1537320574172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$FileDemo.coverage" NAME="FileDemo Coverage Results" MODIFIED="1537156196522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$TopMovie.coverage" NAME="TopMovie Coverage Results" MODIFIED="1537338873694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataMsg" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$quick.coverage" NAME="quick Coverage Results" MODIFIED="1536983430239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$MovieTop.coverage" NAME="MovieTop Coverage Results" MODIFIED="1537338357536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1536931733867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$MyError.coverage" NAME="MyError Coverage Results" MODIFIED="1536996445614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$TestDB.coverage" NAME="TestDB Coverage Results" MODIFIED="1537170093483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$TestTB.coverage" NAME="TestTB Coverage Results" MODIFIED="1537171096903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$insert.coverage" NAME="insert Coverage Results" MODIFIED="1536931273057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$TestBug.coverage" NAME="TestBug Coverage Results" MODIFIED="1537180152481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$UpdateTB.coverage" NAME="UpdateTB Coverage Results" MODIFIED="1537173893020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$CookieBug.coverage" NAME="CookieBug Coverage Results" MODIFIED="1537338856752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$DateDemo.coverage" NAME="DateDemo Coverage Results" MODIFIED="1537001482582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1537168477062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thread" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$mysql_client.coverage" NAME="mysql_client Coverage Results" MODIFIED="1537340270775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$DateDemo2.coverage" NAME="DateDemo2 Coverage Results" MODIFIED="1537154751768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$SelectTB.coverage" NAME="SelectTB Coverage Results" MODIFIED="1537174353701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$FileDemo.coverage" NAME="FileDemo Coverage Results" MODIFIED="1537156196522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$quick.coverage" NAME="quick Coverage Results" MODIFIED="1536983430239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$MovieScore.coverage" NAME="MovieScore Coverage Results" MODIFIED="1537339111036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataMsg" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$LoginBug.coverage" NAME="LoginBug Coverage Results" MODIFIED="1537338788375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$basic.coverage" NAME="basic Coverage Results" MODIFIED="1536927956190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1536931733867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MyClass.coverage" NAME="MyClass Coverage Results" MODIFIED="1536992397298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$PickleDemo.coverage" NAME="PickleDemo Coverage Results" MODIFIED="1537165711296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$InsertTB.coverage" NAME="InsertTB Coverage Results" MODIFIED="1537174373797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$MyError.coverage" NAME="MyError Coverage Results" MODIFIED="1536996445614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$TestDB.coverage" NAME="TestDB Coverage Results" MODIFIED="1537170093483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$MovieTop__1_.coverage" NAME="MovieTop (1) Coverage Results" MODIFIED="1537340274859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$case.coverage" NAME="case Coverage Results" MODIFIED="1536922663691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$OutAdvice.coverage" NAME="OutAdvice Coverage Results" MODIFIED="1536993772605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$DelTB.coverage" NAME="DelTB Coverage Results" MODIFIED="1537174345915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
@@ -76,26 +85,27 @@
     <session id="-754188070">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="employee" value="2" />
-          <entry key="ini" value="1" />
+          <entry key="ini" value="2" />
           <entry key="pstat" value="2" />
-          <entry key="py" value="62" />
+          <entry key="py" value="97" />
           <entry key="pyi" value="1" />
           <entry key="sql" value="6" />
           <entry key="txt" value="3" />
@@ -104,10 +114,10 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="2" />
-          <entry key="Ini" value="1" />
+          <entry key="Ini" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Profiler Session" value="2" />
-          <entry key="Python" value="62" />
+          <entry key="Python" value="97" />
           <entry key="PythonStub" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="4" />
@@ -118,38 +128,84 @@
           <entry key="Python Console" value="13" />
           <entry key="dummy" value="12" />
           <entry key="ini" value="94" />
-          <entry key="py" value="14724" />
+          <entry key="py" value="14787" />
           <entry key="sql" value="541" />
-          <entry key="txt" value="174" />
+          <entry key="txt" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="94" />
-          <entry key="PLAIN_TEXT" value="186" />
-          <entry key="Python" value="14713" />
+          <entry key="PLAIN_TEXT" value="219" />
+          <entry key="Python" value="14776" />
           <entry key="RegExp" value="1" />
           <entry key="SQL" value="516" />
           <entry key="Scratch" value="48" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bugs/MovieTop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="162">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding>
-                <element signature="e#43#52#0" expanded="true" />
-                <marker date="1537270303818" expanded="true" signature="140:145" ph="..." />
-                <marker date="1537270303818" expanded="true" signature="453:854" ph="..." />
-                <marker date="1537270303818" expanded="true" signature="1084:4771" ph="..." />
-                <marker date="1537270303818" expanded="true" signature="2940:4771" ph="..." />
-                <marker date="1537270303818" expanded="true" signature="4790:4799" ph="..." />
+                <marker date="1537338678582" expanded="true" signature="140:145" ph="..." />
+                <marker date="1537338678582" expanded="true" signature="453:854" ph="..." />
+                <marker date="1537338678582" expanded="true" signature="1084:4771" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/mysql_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#43#85#0" expanded="true" />
+                <marker date="1537339103218" expanded="true" signature="138:243" ph="..." />
+                <marker date="1537339103218" expanded="true" signature="670:675" ph="..." />
+                <marker date="1537339103218" expanded="true" signature="1425:1430" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding>
+                <element signature="e#43#80#0" expanded="true" />
+                <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
+                <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/db.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -157,8 +213,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/email_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="-959">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
               <folding>
                 <element signature="e#43#58#0" expanded="true" />
                 <marker date="1537190573711" expanded="true" signature="445:450" ph="..." />
@@ -169,43 +225,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
+        <entry file="file://$PROJECT_DIR$/common/csv_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="e#43#76#0" expanded="true" />
-                <marker date="1537271466449" expanded="true" signature="208:352" ph="..." />
-                <marker date="1537271466449" expanded="true" signature="441:442" ph="..." />
-                <marker date="1537271466449" expanded="true" signature="441:446" ph="..." />
-                <marker date="1537271466449" expanded="true" signature="702:930" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dataMsg/TopMovie.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-              <folding>
-                <element signature="e#43#76#0" expanded="true" />
-                <marker date="1537272100050" expanded="true" signature="714:925" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#43#80#0" expanded="true" />
-                <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
-                <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
+                <marker date="1537188153137" expanded="true" signature="93:98" ph="..." />
               </folding>
             </state>
           </provider>
@@ -252,19 +277,19 @@
         <option value="$PROJECT_DIR$/bugs/ProxyBug.py" />
         <option value="$PROJECT_DIR$/bugs/CookieBug.py" />
         <option value="$PROJECT_DIR$/bugs/BroBug.py" />
-        <option value="$PROJECT_DIR$/bugs/LoginBug.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d50de0d7-3cf5-41e9-88e4-5bf5553e43c2/console.sql" />
         <option value="$PROJECT_DIR$/dataMsg/douban.sql" />
         <option value="$PROJECT_DIR$/config/db.ini" />
         <option value="$PROJECT_DIR$/common/named_tuples.py" />
         <option value="$PROJECT_DIR$/common/conf_utils.py" />
-        <option value="$PROJECT_DIR$/common/mysql_client.py" />
         <option value="$PROJECT_DIR$/common/csv_utils.py" />
         <option value="$PROJECT_DIR$/common/compress_utils.py" />
         <option value="$PROJECT_DIR$/common/email_server.py" />
-        <option value="$PROJECT_DIR$/bugs/MovieTop.py" />
         <option value="$PROJECT_DIR$/dataMsg/MovieScore.py" />
         <option value="$PROJECT_DIR$/dataMsg/TopMovie.py" />
+        <option value="$PROJECT_DIR$/bugs/MovieTop.py" />
+        <option value="$PROJECT_DIR$/bugs/LoginBug.py" />
+        <option value="$PROJECT_DIR$/common/mysql_client.py" />
       </list>
     </option>
   </component>
@@ -274,7 +299,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
@@ -295,7 +320,17 @@
             <path>
               <item name="Py_Basic_37" type="b2602c69:ProjectViewProjectNode" />
               <item name="Py_Basic_37" type="462c0819:PsiDirectoryNode" />
-              <item name="dataMsg" type="462c0819:PsiDirectoryNode" />
+              <item name="bugs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic_37" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Py_Basic_37" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic_37" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Py_Basic_37" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,6 +360,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python_Project\Py_Basic_37\common" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -337,74 +377,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TestBug">
-    <configuration name="DelTB" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/DelTB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="InsertTB" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/InsertTB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SelectTB" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/SelectTB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestBug" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MovieTop (1)">
+    <configuration name="CookieBug" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -417,7 +391,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugs/TestBug.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugs/CookieBug.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -426,7 +400,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UpdateTB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MovieScore" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -434,12 +408,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataMsg" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/UpdateTB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataMsg/MovieScore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MovieTop (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bugs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugs/MovieTop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TopMovie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataMsg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataMsg/TopMovie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/mysql_client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,19 +489,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.InsertTB" />
-      <item itemvalue="Python.SelectTB" />
-      <item itemvalue="Python.UpdateTB" />
-      <item itemvalue="Python.DelTB" />
-      <item itemvalue="Python.TestBug" />
+      <item itemvalue="Python.CookieBug" />
+      <item itemvalue="Python.TopMovie" />
+      <item itemvalue="Python.MovieTop (1)" />
+      <item itemvalue="Python.MovieScore" />
+      <item itemvalue="Python.mysql_client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TestBug" />
-        <item itemvalue="Python.InsertTB" />
-        <item itemvalue="Python.SelectTB" />
-        <item itemvalue="Python.DelTB" />
-        <item itemvalue="Python.UpdateTB" />
+        <item itemvalue="Python.MovieTop (1)" />
+        <item itemvalue="Python.mysql_client" />
+        <item itemvalue="Python.MovieScore" />
+        <item itemvalue="Python.TopMovie" />
+        <item itemvalue="Python.CookieBug" />
       </list>
     </recent_temporary>
   </component>
@@ -497,29 +537,35 @@
       <option name="project" value="LOCAL" />
       <updated>1537271539078</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="email movie top 10 to people">
+      <created>1537272140944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537272140944</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22351696" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16770834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31381732" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31823203" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39250275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286385" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3281768" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32511738" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32486188" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3164983" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3160221" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32875144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -566,7 +612,8 @@
     <MESSAGE value="refactor MovieTop.py" />
     <MESSAGE value="add movie score table" />
     <MESSAGE value="refactor MovieScore.py &#10;add auto email to people" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor MovieScore.py &#10;add auto email to people" />
+    <MESSAGE value="email movie top 10 to people" />
+    <option name="LAST_COMMIT_MESSAGE" value="email movie top 10 to people" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -725,47 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/CreateTB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <marker date="1537171088859" expanded="true" signature="79:84" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/UpdateTB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <marker date="1537173876391" expanded="true" signature="79:80" ph="..." />
-            <marker date="1537173876391" expanded="true" signature="471:476" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/DelTB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <marker date="1537174336622" expanded="true" signature="80:85" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bugs/ProxyBug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/common/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d50de0d7-3cf5-41e9-88e4-5bf5553e43c2/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -780,53 +786,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/db.ini">
+    <entry file="file://$PROJECT_DIR$/db/UpdateTB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="621">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/named_tuples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/compress_utils.py">
+    <entry file="file://$PROJECT_DIR$/db/SelectTB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="e#43#57#0" expanded="true" />
-            <marker date="1537188872482" expanded="true" signature="100:105" ph="..." />
-            <marker date="1537188872482" expanded="true" signature="537:542" ph="..." />
-            <marker date="1537188872482" expanded="true" signature="973:978" ph="..." />
-          </folding>
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/csv_utils.py">
+    <entry file="file://$PROJECT_DIR$/db/InsertTB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <marker date="1537188153137" expanded="true" signature="93:98" ph="..." />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/mysql_client.py">
+    <entry file="file://$PROJECT_DIR$/db/DelTB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/CreateTB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding>
-            <element signature="e#43#85#0" expanded="true" />
-            <marker date="1537187855930" expanded="true" signature="138:211" ph="..." />
-            <marker date="1537187855930" expanded="true" signature="638:643" ph="..." />
-            <marker date="1537187855930" expanded="true" signature="1393:1398" ph="..." />
-          </folding>
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -834,26 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <marker date="1537170088690" expanded="true" signature="77:82" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/SelectTB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-          <folding>
-            <marker date="1537173514178" expanded="true" signature="139:234" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bugs/TestBug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -864,66 +835,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/InsertTB.py">
+    <entry file="file://$PROJECT_DIR$/bugs/TestBug.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="876" selection-start-line="876" selection-end-line="876" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bugs/ProxyBug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/named_tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/compress_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
           <folding>
             <element signature="e#43#57#0" expanded="true" />
-            <marker date="1537172588856" expanded="true" signature="96:101" ph="..." />
-            <marker date="1537172588856" expanded="true" signature="627:632" ph="..." />
+            <marker date="1537188872482" expanded="true" signature="100:105" ph="..." />
+            <marker date="1537188872482" expanded="true" signature="537:542" ph="..." />
+            <marker date="1537188872482" expanded="true" signature="973:978" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bugs/CookieBug.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="e#43#69#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="503">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bugs/LoginBug.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="378">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bugs/MovieTop.py">
+    <entry file="file://$PROJECT_DIR$/common/csv_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#43#52#0" expanded="true" />
-            <marker date="1537270303818" expanded="true" signature="140:145" ph="..." />
-            <marker date="1537270303818" expanded="true" signature="453:854" ph="..." />
-            <marker date="1537270303818" expanded="true" signature="1084:4771" ph="..." />
-            <marker date="1537270303818" expanded="true" signature="2940:4771" ph="..." />
-            <marker date="1537270303818" expanded="true" signature="4790:4799" ph="..." />
+            <marker date="1537188153137" expanded="true" signature="93:98" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
+    <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#43#80#0" expanded="true" />
-            <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
-            <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/email_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="-959">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
             <element signature="e#43#58#0" expanded="true" />
             <marker date="1537190573711" expanded="true" signature="445:450" ph="..." />
@@ -932,27 +922,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
+    <entry file="file://$PROJECT_DIR$/config/db.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="162">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bugs/CookieBug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#43#76#0" expanded="true" />
-            <marker date="1537271466449" expanded="true" signature="208:352" ph="..." />
-            <marker date="1537271466449" expanded="true" signature="441:442" ph="..." />
-            <marker date="1537271466449" expanded="true" signature="441:446" ph="..." />
-            <marker date="1537271466449" expanded="true" signature="702:930" ph="..." />
+            <element signature="e#43#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataMsg/TopMovie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        <state relative-caret-position="81">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding>
-            <element signature="e#43#76#0" expanded="true" />
             <marker date="1537272100050" expanded="true" signature="714:925" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="e#43#80#0" expanded="true" />
+            <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
+            <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mysql_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#43#85#0" expanded="true" />
+            <marker date="1537339103218" expanded="true" signature="138:243" ph="..." />
+            <marker date="1537339103218" expanded="true" signature="670:675" ph="..." />
+            <marker date="1537339103218" expanded="true" signature="1425:1430" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bugs/MovieTop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <marker date="1537338678582" expanded="true" signature="140:145" ph="..." />
+            <marker date="1537338678582" expanded="true" signature="453:854" ph="..." />
+            <marker date="1537338678582" expanded="true" signature="1084:4771" ph="..." />
           </folding>
         </state>
       </provider>
