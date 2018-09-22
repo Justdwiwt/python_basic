@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socketTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socketTest/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socketTest/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +22,7 @@
     <SUITE FILE_PATH="coverage/Py_Basic_37$quick.coverage" NAME="quick Coverage Results" MODIFIED="1536983430239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MovieTop.coverage" NAME="MovieTop Coverage Results" MODIFIED="1537338357536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1536931733867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$EdaAnalysis.coverage" NAME="EdaAnalysis Coverage Results" MODIFIED="1537407251208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$EdaAnalysis.coverage" NAME="EdaAnalysis Coverage Results" MODIFIED="1537615048464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MyError.coverage" NAME="MyError Coverage Results" MODIFIED="1536996445614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$TestDB.coverage" NAME="TestDB Coverage Results" MODIFIED="1537170093483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$TestTB.coverage" NAME="TestTB Coverage Results" MODIFIED="1537171096903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
@@ -34,7 +36,7 @@
     <SUITE FILE_PATH="coverage/Py_Basic_37$SelectTB.coverage" NAME="SelectTB Coverage Results" MODIFIED="1537174353701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MovieScore.coverage" NAME="MovieScore Coverage Results" MODIFIED="1537410862154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataMsg" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$LoginBug.coverage" NAME="LoginBug Coverage Results" MODIFIED="1537338788375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$AgentSpy.coverage" NAME="AgentSpy Coverage Results" MODIFIED="1537411033786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataCapture" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$AgentSpy.coverage" NAME="AgentSpy Coverage Results" MODIFIED="1537608669950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataCapture" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$email_server.coverage" NAME="email_server Coverage Results" MODIFIED="1537340542802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$basic.coverage" NAME="basic Coverage Results" MODIFIED="1536927956190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MyClass.coverage" NAME="MyClass Coverage Results" MODIFIED="1536992397298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object" />
@@ -88,7 +90,7 @@
     <session id="-754188070">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -102,8 +104,9 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -111,7 +114,7 @@
           <entry key="employee" value="2" />
           <entry key="ini" value="2" />
           <entry key="pstat" value="2" />
-          <entry key="py" value="103" />
+          <entry key="py" value="110" />
           <entry key="pyi" value="1" />
           <entry key="sql" value="6" />
           <entry key="txt" value="3" />
@@ -123,7 +126,7 @@
           <entry key="Ini" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Profiler Session" value="2" />
-          <entry key="Python" value="103" />
+          <entry key="Python" value="110" />
           <entry key="PythonStub" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="4" />
@@ -132,18 +135,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="31" />
-          <entry key="dummy" value="12" />
+          <entry key="dummy" value="18" />
           <entry key="ini" value="94" />
-          <entry key="py" value="16475" />
+          <entry key="py" value="17235" />
           <entry key="sql" value="541" />
-          <entry key="txt" value="311" />
+          <entry key="txt" value="317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="94" />
-          <entry key="PLAIN_TEXT" value="323" />
-          <entry key="Python" value="16482" />
+          <entry key="PLAIN_TEXT" value="335" />
+          <entry key="Python" value="17242" />
           <entry key="RegExp" value="1" />
           <entry key="SQL" value="516" />
           <entry key="Scratch" value="48" />
@@ -156,24 +159,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bugs/MovieTop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="44" />
-              <folding>
-                <element signature="e#43#52#0" expanded="true" />
-                <marker date="1537340640516" expanded="true" signature="140:145" ph="..." />
-                <marker date="1537340640516" expanded="true" signature="453:854" ph="..." />
-                <marker date="1537340640516" expanded="true" signature="1084:4771" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataCapture/AgentSpy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="-972">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#43#58#0" expanded="true" />
@@ -186,11 +174,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+            <state relative-caret-position="378">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="e#43#74#0" expanded="true" />
               </folding>
@@ -199,23 +187,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataCapture/Robots.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <marker date="1537346467683" expanded="true" signature="104:105" ph="..." />
-                <marker date="1537346467683" expanded="true" signature="104:109" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataCapture/Decode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="297">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#43#57#0" expanded="true" />
               </folding>
@@ -224,42 +199,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/mysql_client.py">
+        <entry file="file://$PROJECT_DIR$/socketTest/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding>
-                <element signature="e#43#85#0" expanded="true" />
-                <marker date="1537339103218" expanded="true" signature="138:243" ph="..." />
-                <marker date="1537339103218" expanded="true" signature="670:675" ph="..." />
-                <marker date="1537339103218" expanded="true" signature="1425:1430" ph="..." />
+                <element signature="e#43#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/socketTest/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-              <folding>
-                <element signature="e#43#80#0" expanded="true" />
-                <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
-                <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding>
-                <element signature="e#43#76#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -323,6 +278,11 @@
         <option value="$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py" />
         <option value="$PROJECT_DIR$/bugs/MovieTop.py" />
         <option value="$PROJECT_DIR$/dataCapture/AgentSpy.py" />
+        <option value="$PROJECT_DIR$/socket/Tcp.py" />
+        <option value="$PROJECT_DIR$/socket/server.py" />
+        <option value="$PROJECT_DIR$/socket/client.py" />
+        <option value="$PROJECT_DIR$/socketTest/server.py" />
+        <option value="$PROJECT_DIR$/socketTest/client.py" />
       </list>
     </option>
   </component>
@@ -332,7 +292,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
@@ -343,23 +303,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Py_Basic_37" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Py_Basic_37" type="b2602c69:ProjectViewProjectNode" />
               <item name="Py_Basic_37" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic_37" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Py_Basic_37" type="462c0819:PsiDirectoryNode" />
+              <item name="socketTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Py_Basic_37" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -395,36 +360,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AgentSpy">
-    <configuration name="AgentSpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataCapture" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataCapture/AgentSpy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.server">
     <configuration name="Decode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataCapture" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -433,7 +373,7 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataCapture/Decode.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -462,7 +402,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MovieScore" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tcp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -470,36 +410,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataMsg" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socket" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataMsg/MovieScore.py" />
+      <option name="SCRIPT_NAME" value="D:\Python_Project\Py_Basic_37\socket\server.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MovieTop (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bugs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugs/MovieTop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -528,20 +446,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socketTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socketTest/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socketTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socketTest/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.MovieTop (1)" />
-      <item itemvalue="Python.AgentSpy" />
-      <item itemvalue="Python.Decode" />
       <item itemvalue="Python.EdaAnalysis" />
-      <item itemvalue="Python.MovieScore" />
+      <item itemvalue="Python.Tcp" />
+      <item itemvalue="Python.Decode" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.AgentSpy" />
-        <item itemvalue="Python.MovieScore" />
-        <item itemvalue="Python.MovieTop (1)" />
-        <item itemvalue="Python.EdaAnalysis" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.client" />
         <item itemvalue="Python.Decode" />
+        <item itemvalue="Python.EdaAnalysis" />
+        <item itemvalue="Python.Tcp" />
       </list>
     </recent_temporary>
   </component>
@@ -626,11 +582,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537351111336</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="analysis review">
+      <created>1537608394833</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537608394833</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1537608710133</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537608710133</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16197917" />
@@ -638,7 +608,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" weight="0.44309393" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" weight="0.4165746" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39250275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -646,17 +616,17 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947917" weight="0.3281768" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104165" side_tool="true" weight="0.44309393" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104165" side_tool="true" weight="0.44224766" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3160221" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32875144" />
-      <window_info anchor="right" x="0" y="0" width="434" height="896" id="Documentation" side_tool="true" weight="0.3296875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.38444924" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.384375" />
       <window_info anchor="right" id="Database" order="4" weight="0.32937366" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="434" height="896" id="Documentation" order="6" side_tool="true" weight="0.3296875" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -703,52 +673,12 @@
     <MESSAGE value="decode test" />
     <MESSAGE value="analysis test" />
     <MESSAGE value="analysis review" />
-    <option name="LAST_COMMIT_MESSAGE" value="analysis review" />
+    <MESSAGE value="analysis" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1169337157/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/quick.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exception/MyError.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/quickS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -897,13 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/http/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="876" selection-start-line="876" selection-end-line="876" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bugs/ProxyBug.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -990,26 +913,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="21" column="44" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="44" />
-          <folding>
-            <element signature="e#43#52#0" expanded="true" />
-            <marker date="1537340640516" expanded="true" signature="140:145" ph="..." />
-            <marker date="1537340640516" expanded="true" signature="453:854" ph="..." />
-            <marker date="1537340640516" expanded="true" signature="1084:4771" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataCapture/AgentSpy.py">
+    <entry file="file://$PROJECT_DIR$/socket/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/http/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#43#58#0" expanded="true" />
-            <marker date="1537411053733" expanded="true" signature="126:131" ph="..." />
-            <marker date="1537411053733" expanded="true" signature="311:357" ph="..." />
-            <marker date="1537411053733" expanded="true" signature="1655:1660" ph="..." />
-            <marker date="1537411053733" expanded="true" signature="1900:1905" ph="..." />
-          </folding>
+        <state relative-caret-position="185">
+          <caret line="826" selection-start-line="826" selection-end-line="826" />
         </state>
       </provider>
     </entry>
@@ -1017,19 +930,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <marker date="1537346467683" expanded="true" signature="104:105" ph="..." />
-            <marker date="1537346467683" expanded="true" signature="104:109" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataCapture/Decode.py">
+    <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="405">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding>
-            <element signature="e#43#57#0" expanded="true" />
+            <element signature="e#43#80#0" expanded="true" />
+            <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
+            <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1047,35 +958,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/conf_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <element signature="e#43#80#0" expanded="true" />
-            <marker date="1537190974633" expanded="true" signature="122:362" ph="..." />
-            <marker date="1537190974633" expanded="true" signature="391:400" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataMsg/MovieScore.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="e#43#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py">
+    <entry file="file://$PROJECT_DIR$/dataCapture/AgentSpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#43#58#0" expanded="true" />
+            <marker date="1537411053733" expanded="true" signature="126:131" ph="..." />
+            <marker date="1537411053733" expanded="true" signature="311:357" ph="..." />
+            <marker date="1537411053733" expanded="true" signature="1655:1660" ph="..." />
+            <marker date="1537411053733" expanded="true" signature="1900:1905" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
-          <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+          <caret line="13" column="34" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
             <element signature="e#43#74#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataCapture/Decode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#43#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socketTest/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#43#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socketTest/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
