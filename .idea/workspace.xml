@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/peeweeDemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/peeweeDemo/peeweeDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/Selection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser-2.18-py3.7.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser-2.18-py3.7.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser-2.18-py3.7.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser-2.18-py3.7.egg-info/installed-files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser-2.18-py3.7.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/_ast_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/_ast_gen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/_build_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/_build_tables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/_c_ast.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/_c_ast.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/ast_transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/ast_transforms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_ast.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_ast.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_lexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/c_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/ply/cpp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/ply/cpp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/ply/yacc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/ply/yacc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/plyparser.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/plyparser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/yacctab.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pycparser/yacctab.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +21,7 @@
     <SUITE FILE_PATH="coverage/Py_Basic_37$TopMovie.coverage" NAME="TopMovie Coverage Results" MODIFIED="1537338873694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataMsg" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$quick.coverage" NAME="quick Coverage Results" MODIFIED="1536983430239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MovieTop.coverage" NAME="MovieTop Coverage Results" MODIFIED="1537338357536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
-    <SUITE FILE_PATH="coverage/Py_Basic_37$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1536931733867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1537964317499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$EdaAnalysis.coverage" NAME="EdaAnalysis Coverage Results" MODIFIED="1537615048464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MyError.coverage" NAME="MyError Coverage Results" MODIFIED="1536996445614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$TestDB.coverage" NAME="TestDB Coverage Results" MODIFIED="1537170093483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
@@ -57,6 +39,7 @@
     <SUITE FILE_PATH="coverage/Py_Basic_37$AgentSpy.coverage" NAME="AgentSpy Coverage Results" MODIFIED="1537608669950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataCapture" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$email_server.coverage" NAME="email_server Coverage Results" MODIFIED="1537340542802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$basic.coverage" NAME="basic Coverage Results" MODIFIED="1536927956190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$Selection.coverage" NAME="Selection Coverage Results" MODIFIED="1537965081489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MyClass.coverage" NAME="MyClass Coverage Results" MODIFIED="1536992397298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$PickleDemo.coverage" NAME="PickleDemo Coverage Results" MODIFIED="1537165711296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$InsertTB.coverage" NAME="InsertTB Coverage Results" MODIFIED="1537174373797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
@@ -108,7 +91,7 @@
     <session id="-754188070">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -121,10 +104,11 @@
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -132,7 +116,7 @@
           <entry key="employee" value="2" />
           <entry key="ini" value="2" />
           <entry key="pstat" value="2" />
-          <entry key="py" value="111" />
+          <entry key="py" value="114" />
           <entry key="pyi" value="1" />
           <entry key="sql" value="6" />
           <entry key="txt" value="3" />
@@ -145,7 +129,7 @@
           <entry key="Ini" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Profiler Session" value="2" />
-          <entry key="Python" value="111" />
+          <entry key="Python" value="114" />
           <entry key="PythonStub" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="4" />
@@ -154,19 +138,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="31" />
+          <entry key="Python Console" value="38" />
           <entry key="dummy" value="18" />
           <entry key="ini" value="94" />
-          <entry key="py" value="18070" />
+          <entry key="py" value="18229" />
           <entry key="sql" value="541" />
-          <entry key="txt" value="351" />
+          <entry key="txt" value="366" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="94" />
-          <entry key="PLAIN_TEXT" value="369" />
-          <entry key="Python" value="18077" />
+          <entry key="PLAIN_TEXT" value="384" />
+          <entry key="Python" value="18243" />
           <entry key="RegExp" value="1" />
           <entry key="SQL" value="516" />
           <entry key="Scratch" value="48" />
@@ -206,16 +190,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/peeweeDemo/peeweeDB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="677">
-              <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+            <state relative-caret-position="-756">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <marker date="1537620750003" expanded="true" signature="125:126" ph="..." />
                 <marker date="1537620750003" expanded="true" signature="125:130" ph="..." />
                 <marker date="1537620750003" expanded="true" signature="190:195" ph="..." />
                 <marker date="1537620750003" expanded="true" signature="414:419" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/bubble.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/insert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/Selection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1537963667930" expanded="true" signature="64:69" ph="..." />
               </folding>
             </state>
           </provider>
@@ -272,7 +286,6 @@
         <option value="$PROJECT_DIR$/basic/case.py" />
         <option value="$PROJECT_DIR$/basic/basic.py" />
         <option value="$PROJECT_DIR$/algorithm/bubble.py" />
-        <option value="$PROJECT_DIR$/algorithm/insert.py" />
         <option value="$PROJECT_DIR$/algorithm/quickS.py" />
         <option value="$PROJECT_DIR$/algorithm/quick.py" />
         <option value="$PROJECT_DIR$/object/MyClass.py" />
@@ -319,6 +332,8 @@
         <option value="$PROJECT_DIR$/socketTest/client.py" />
         <option value="$PROJECT_DIR$/socketTest/server.py" />
         <option value="$PROJECT_DIR$/peeweeDemo/peeweeDB.py" />
+        <option value="$PROJECT_DIR$/algorithm/Selection.py" />
+        <option value="$PROJECT_DIR$/algorithm/insert.py" />
       </list>
     </option>
   </component>
@@ -328,7 +343,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
@@ -360,7 +375,7 @@
             <path>
               <item name="Py_Basic_37" type="b2602c69:ProjectViewProjectNode" />
               <item name="Py_Basic_37" type="462c0819:PsiDirectoryNode" />
-              <item name="peeweeDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,7 +393,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -397,67 +412,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.server">
-    <configuration name="Decode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Selection">
+    <configuration name="Selection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataCapture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataCapture/Decode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EdaAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/Selection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tcp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socket" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Python_Project\Py_Basic_37\socket\server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -486,6 +454,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bubble" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/bubble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -500,6 +487,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socketTest/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/insert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -531,19 +537,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.EdaAnalysis" />
-      <item itemvalue="Python.Tcp" />
-      <item itemvalue="Python.Decode" />
       <item itemvalue="Python.server" />
       <item itemvalue="Python.client" />
+      <item itemvalue="Python.Selection" />
+      <item itemvalue="Python.insert" />
+      <item itemvalue="Python.bubble" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Selection" />
+        <item itemvalue="Python.bubble" />
+        <item itemvalue="Python.insert" />
         <item itemvalue="Python.server" />
         <item itemvalue="Python.client" />
-        <item itemvalue="Python.Decode" />
-        <item itemvalue="Python.EdaAnalysis" />
-        <item itemvalue="Python.Tcp" />
       </list>
     </recent_temporary>
   </component>
@@ -649,29 +655,36 @@
       <option name="project" value="LOCAL" />
       <updated>1537616071590</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="peewee test">
+      <created>1537620799413</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537620799413</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" weight="0.4165746" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39250275" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49895832" weight="0.3922652" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947917" weight="0.32778355" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104165" side_tool="true" weight="0.44132918" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3160221" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104165" side_tool="true" weight="0.3922652" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32928178" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.30939227" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32875144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -733,31 +746,11 @@
     <MESSAGE value="analysis" />
     <MESSAGE value="update" />
     <MESSAGE value="模拟socket连接" />
-    <option name="LAST_COMMIT_MESSAGE" value="模拟socket连接" />
+    <MESSAGE value="peewee test" />
+    <option name="LAST_COMMIT_MESSAGE" value="peewee test" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/object/MyClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/object/WeatherSearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/object/OutAdvice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file/FileDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1049,6 +1042,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/peeweeDemo/peeweeDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1537620750003" expanded="true" signature="125:126" ph="..." />
+            <marker date="1537620750003" expanded="true" signature="125:130" ph="..." />
+            <marker date="1537620750003" expanded="true" signature="190:195" ph="..." />
+            <marker date="1537620750003" expanded="true" signature="414:419" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -1059,15 +1065,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/peeweeDemo/peeweeDB.py">
+    <entry file="file://$PROJECT_DIR$/algorithm/insert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+        <state relative-caret-position="152">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/bubble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/Selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1537620750003" expanded="true" signature="125:126" ph="..." />
-            <marker date="1537620750003" expanded="true" signature="125:130" ph="..." />
-            <marker date="1537620750003" expanded="true" signature="190:195" ph="..." />
-            <marker date="1537620750003" expanded="true" signature="414:419" ph="..." />
+            <marker date="1537963667930" expanded="true" signature="64:69" ph="..." />
           </folding>
         </state>
       </provider>
