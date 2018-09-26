@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/Merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/Heap.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Py_Basic_37$MovieTop.coverage" NAME="MovieTop Coverage Results" MODIFIED="1537338357536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugs" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1537964317499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$EdaAnalysis.coverage" NAME="EdaAnalysis Coverage Results" MODIFIED="1537615048464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$Heap.coverage" NAME="Heap Coverage Results" MODIFIED="1537968165117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$Shell.coverage" NAME="Shell Coverage Results" MODIFIED="1537965442966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$Merge.coverage" NAME="Merge Coverage Results" MODIFIED="1537967723999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MyError.coverage" NAME="MyError Coverage Results" MODIFIED="1536996445614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception" />
@@ -117,7 +116,7 @@
           <entry key="employee" value="2" />
           <entry key="ini" value="2" />
           <entry key="pstat" value="2" />
-          <entry key="py" value="117" />
+          <entry key="py" value="118" />
           <entry key="pyi" value="1" />
           <entry key="sql" value="6" />
           <entry key="txt" value="3" />
@@ -130,7 +129,7 @@
           <entry key="Ini" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Profiler Session" value="2" />
-          <entry key="Python" value="117" />
+          <entry key="Python" value="118" />
           <entry key="PythonStub" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="4" />
@@ -142,16 +141,16 @@
           <entry key="Python Console" value="38" />
           <entry key="dummy" value="18" />
           <entry key="ini" value="94" />
-          <entry key="py" value="18643" />
+          <entry key="py" value="18956" />
           <entry key="sql" value="541" />
-          <entry key="txt" value="386" />
+          <entry key="txt" value="392" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="94" />
-          <entry key="PLAIN_TEXT" value="404" />
-          <entry key="Python" value="18657" />
+          <entry key="PLAIN_TEXT" value="410" />
+          <entry key="Python" value="18970" />
           <entry key="RegExp" value="1" />
           <entry key="SQL" value="516" />
           <entry key="Scratch" value="48" />
@@ -220,14 +219,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/Merge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state>
+              <caret selection-end-line="2" />
               <folding>
                 <marker date="1537967723979" expanded="true" signature="63:68" ph="..." />
                 <marker date="1537967723979" expanded="true" signature="221:535" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/Heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding>
+                <marker date="1537968107797" expanded="true" signature="62:67" ph="..." />
+                <marker date="1537968107797" expanded="true" signature="351:690" ph="..." />
               </folding>
             </state>
           </provider>
@@ -281,7 +293,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm/bubble.py" />
         <option value="$PROJECT_DIR$/algorithm/quickS.py" />
         <option value="$PROJECT_DIR$/algorithm/quick.py" />
         <option value="$PROJECT_DIR$/object/MyClass.py" />
@@ -332,6 +343,7 @@
         <option value="$PROJECT_DIR$/algorithm/insert.py" />
         <option value="$PROJECT_DIR$/algorithm/Shell.py" />
         <option value="$PROJECT_DIR$/algorithm/Merge.py" />
+        <option value="$PROJECT_DIR$/algorithm/Heap.py" />
       </list>
     </option>
   </component>
@@ -410,7 +422,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Merge">
+  <component name="RunManager" selected="Python.Heap">
+    <configuration name="Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/Heap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Merge" type="PythonConfigurationType" factoryName="Python">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -534,9 +565,11 @@
       <item itemvalue="Python.insert" />
       <item itemvalue="Python.bubble" />
       <item itemvalue="Python.Shell" />
+      <item itemvalue="Python.Heap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Heap" />
         <item itemvalue="Python.Shell" />
         <item itemvalue="Python.Selection" />
         <item itemvalue="Python.bubble" />
@@ -667,7 +700,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537965457495</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="merge sort">
+      <created>1537967768415</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537967768415</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -754,17 +794,11 @@
     <MESSAGE value="peewee test" />
     <MESSAGE value="selection sort" />
     <MESSAGE value="shell sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="shell sort" />
+    <MESSAGE value="merge sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge sort" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/cursors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://d50de0d7-3cf5-41e9-88e4-5bf5553e43c2/schema/db_py_basic/table/employee" />
     <entry file="file://$PROJECT_DIR$/date/DateDemo2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1094,11 +1128,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/Merge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state>
+          <caret selection-end-line="2" />
           <folding>
             <marker date="1537967723979" expanded="true" signature="63:68" ph="..." />
             <marker date="1537967723979" expanded="true" signature="221:535" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/Heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <marker date="1537968107797" expanded="true" signature="62:67" ph="..." />
+            <marker date="1537968107797" expanded="true" signature="351:690" ph="..." />
           </folding>
         </state>
       </provider>
