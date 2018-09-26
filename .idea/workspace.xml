@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/Shell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/Merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +23,7 @@
     <SUITE FILE_PATH="coverage/Py_Basic_37$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1537964317499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$EdaAnalysis.coverage" NAME="EdaAnalysis Coverage Results" MODIFIED="1537615048464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$Shell.coverage" NAME="Shell Coverage Results" MODIFIED="1537965442966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Py_Basic_37$Merge.coverage" NAME="Merge Coverage Results" MODIFIED="1537967723999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$MyError.coverage" NAME="MyError Coverage Results" MODIFIED="1536996445614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$TestDB.coverage" NAME="TestDB Coverage Results" MODIFIED="1537170093483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
     <SUITE FILE_PATH="coverage/Py_Basic_37$TestTB.coverage" NAME="TestTB Coverage Results" MODIFIED="1537171096903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
@@ -114,7 +117,7 @@
           <entry key="employee" value="2" />
           <entry key="ini" value="2" />
           <entry key="pstat" value="2" />
-          <entry key="py" value="115" />
+          <entry key="py" value="117" />
           <entry key="pyi" value="1" />
           <entry key="sql" value="6" />
           <entry key="txt" value="3" />
@@ -127,7 +130,7 @@
           <entry key="Ini" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Profiler Session" value="2" />
-          <entry key="Python" value="115" />
+          <entry key="Python" value="117" />
           <entry key="PythonStub" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="4" />
@@ -139,16 +142,16 @@
           <entry key="Python Console" value="38" />
           <entry key="dummy" value="18" />
           <entry key="ini" value="94" />
-          <entry key="py" value="18230" />
+          <entry key="py" value="18643" />
           <entry key="sql" value="541" />
-          <entry key="txt" value="380" />
+          <entry key="txt" value="386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="94" />
-          <entry key="PLAIN_TEXT" value="398" />
-          <entry key="Python" value="18244" />
+          <entry key="PLAIN_TEXT" value="404" />
+          <entry key="Python" value="18657" />
           <entry key="RegExp" value="1" />
           <entry key="SQL" value="516" />
           <entry key="Scratch" value="48" />
@@ -161,26 +164,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataCapture/AgentSpy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#43#58#0" expanded="true" />
-                <marker date="1537411053733" expanded="true" signature="126:131" ph="..." />
-                <marker date="1537411053733" expanded="true" signature="311:357" ph="..." />
-                <marker date="1537411053733" expanded="true" signature="1655:1660" ph="..." />
-                <marker date="1537411053733" expanded="true" signature="1900:1905" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            <state relative-caret-position="135">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="e#43#74#0" expanded="true" />
               </folding>
@@ -191,8 +178,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/peeweeDemo/peeweeDB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-756">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="729">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <marker date="1537620750003" expanded="true" signature="125:126" ph="..." />
                 <marker date="1537620750003" expanded="true" signature="125:130" ph="..." />
@@ -215,17 +202,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm/insert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="405">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/Shell.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding>
+                <marker date="1537965442902" expanded="true" signature="63:68" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/Shell.py">
+        <entry file="file://$PROJECT_DIR$/algorithm/Merge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="-81">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <marker date="1537967723979" expanded="true" signature="63:68" ph="..." />
+                <marker date="1537967723979" expanded="true" signature="221:535" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,18 +240,6 @@
               <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding>
                 <marker date="1537963667930" expanded="true" signature="64:69" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataCapture/Decode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#43#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -290,7 +281,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic/basic.py" />
         <option value="$PROJECT_DIR$/algorithm/bubble.py" />
         <option value="$PROJECT_DIR$/algorithm/quickS.py" />
         <option value="$PROJECT_DIR$/algorithm/quick.py" />
@@ -341,6 +331,7 @@
         <option value="$PROJECT_DIR$/algorithm/Selection.py" />
         <option value="$PROJECT_DIR$/algorithm/insert.py" />
         <option value="$PROJECT_DIR$/algorithm/Shell.py" />
+        <option value="$PROJECT_DIR$/algorithm/Merge.py" />
       </list>
     </option>
   </component>
@@ -419,7 +410,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Shell">
+  <component name="RunManager" selected="Python.Merge">
+    <configuration name="Merge" type="PythonConfigurationType" factoryName="Python">
+      <module name="Py_Basic_37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/Merge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Selection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Py_Basic_37" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -518,30 +528,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Py_Basic_37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/socketTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socketTest/server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.server" />
+      <item itemvalue="Python.Merge" />
       <item itemvalue="Python.Selection" />
       <item itemvalue="Python.insert" />
       <item itemvalue="Python.bubble" />
@@ -553,7 +541,6 @@
         <item itemvalue="Python.Selection" />
         <item itemvalue="Python.bubble" />
         <item itemvalue="Python.insert" />
-        <item itemvalue="Python.server" />
       </list>
     </recent_temporary>
   </component>
@@ -673,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537965147303</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="shell sort">
+      <created>1537965457495</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537965457495</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -685,7 +679,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" weight="0.2685083" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.26760563" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49895832" weight="0.3922652" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -695,7 +689,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104165" side_tool="true" weight="0.3922652" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32928178" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.30939227" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.30868545" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32875144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -759,24 +753,11 @@
     <MESSAGE value="模拟socket连接" />
     <MESSAGE value="peewee test" />
     <MESSAGE value="selection sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="selection sort" />
+    <MESSAGE value="shell sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="shell sort" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/file/dump.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/PickleDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -1047,29 +1028,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/peeweeDemo/peeweeDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <marker date="1537620750003" expanded="true" signature="125:126" ph="..." />
-            <marker date="1537620750003" expanded="true" signature="125:130" ph="..." />
-            <marker date="1537620750003" expanded="true" signature="190:195" ph="..." />
-            <marker date="1537620750003" expanded="true" signature="414:419" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding>
-            <element signature="e#43#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/bubble.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1089,15 +1047,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/insert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peeweeDemo/peeweeDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <marker date="1537620750003" expanded="true" signature="125:126" ph="..." />
+            <marker date="1537620750003" expanded="true" signature="125:130" ph="..." />
+            <marker date="1537620750003" expanded="true" signature="190:195" ph="..." />
+            <marker date="1537620750003" expanded="true" signature="414:419" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/EdaAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#43#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1169337157/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="1264" column="12" lean-forward="true" selection-start-line="1264" selection-start-column="12" selection-end-line="1264" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/Shell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="108">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1537965442902" expanded="true" signature="63:68" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/Merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1537967723979" expanded="true" signature="63:68" ph="..." />
+            <marker date="1537967723979" expanded="true" signature="221:535" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
