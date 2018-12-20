@@ -9,6 +9,7 @@
           <option value="W292" />
           <option value="E712" />
           <option value="E741" />
+          <option value="E703" />
         </list>
       </option>
     </inspection_tool>
@@ -17,6 +18,7 @@
         <list>
           <option value="N806" />
           <option value="N803" />
+          <option value="N802" />
         </list>
       </option>
     </inspection_tool>
@@ -24,6 +26,7 @@
       <option name="ignoredNames">
         <list>
           <option value="min" />
+          <option value="id" />
         </list>
       </option>
     </inspection_tool>
@@ -34,5 +37,6 @@
         </list>
       </option>
     </inspection_tool>
+    <inspection_tool class="SqlResolveInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   </profile>
 </component>
