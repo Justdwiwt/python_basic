@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py_Basic_37.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/d50de0d7-3cf5-41e9-88e4-5bf5553e43c2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d50de0d7-3cf5-41e9-88e4-5bf5553e43c2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/entry_points.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/entry_points.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/requires.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +104,11 @@
   </component>
   <component name="ProjectId" id="1OUNH9KKqSP7zZ2u4iHNJ457Axr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -125,29 +119,20 @@
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python_Project\Py_Basic_37\common" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.EdaAnalysis">
     <configuration name="EdaAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -306,11 +291,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Merge" />
-      <item itemvalue="Python.TestBug" />
       <item itemvalue="Python.EdaAnalysis" />
       <item itemvalue="Python.GetLago" />
-      <item itemvalue="Python.u_catch" />
+      <item itemvalue="Python.TestBug" />
       <item itemvalue="Python.bubble" />
+      <item itemvalue="Python.u_catch" />
     </list>
     <recent_temporary>
       <list>
@@ -321,6 +306,18 @@
         <item itemvalue="Python.GetLago" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -343,7 +340,13 @@
       <workItem from="1566614417375" duration="43000" />
       <workItem from="1566615640982" duration="39000" />
       <workItem from="1574752572099" duration="122000" />
-      <workItem from="1574752709161" duration="668000" />
+      <workItem from="1574752709161" duration="1708000" />
+      <workItem from="1575334316066" duration="207000" />
+      <workItem from="1575334540612" duration="57000" />
+      <workItem from="1581141332645" duration="105000" />
+      <workItem from="1586274050862" duration="42000" />
+      <workItem from="1586274103735" duration="71000" />
+      <workItem from="1586274187359" duration="1435000" />
     </task>
     <task id="LOCAL-00001" summary="refactor MovieTop.py">
       <created>1537270409541</created>
@@ -492,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556030093659</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update path">
+      <created>1574753416027</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1574753416027</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,8 +559,27 @@
     <MESSAGE value="add bugs" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="usb copy" />
-    <option name="LAST_COMMIT_MESSAGE" value="usb copy" />
+    <MESSAGE value="update path" />
+    <option name="LAST_COMMIT_MESSAGE" value="update path" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="224" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586274067404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="224" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586274067404" />
+    <state x="330" y="69" key="SettingsEditor" timestamp="1586274242107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="69" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586274242107" />
+    <state x="552" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1586274189926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586274189926" />
+    <state x="563" y="347" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586274251209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="347" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586274251209" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_basic$EdaAnalysis.coverage" NAME="EdaAnalysis Coverage Results" MODIFIED="1559370913175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis" />
