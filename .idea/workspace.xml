@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d50de0d7-3cf5-41e9-88e4-5bf5553e43c2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d50de0d7-3cf5-41e9-88e4-5bf5553e43c2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +115,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Change SQL Dialect" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="last.edited.regexp" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -346,7 +345,8 @@
       <workItem from="1581141332645" duration="105000" />
       <workItem from="1586274050862" duration="42000" />
       <workItem from="1586274103735" duration="71000" />
-      <workItem from="1586274187359" duration="1435000" />
+      <workItem from="1586274187359" duration="1674000" />
+      <workItem from="1586339352499" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="refactor MovieTop.py">
       <created>1537270409541</created>
@@ -502,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574753416027</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="leetCode 1,2,3,4,5">
+      <created>1586275729098</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1586275729098</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +567,8 @@
     <MESSAGE value="add gitignore" />
     <MESSAGE value="usb copy" />
     <MESSAGE value="update path" />
-    <option name="LAST_COMMIT_MESSAGE" value="update path" />
+    <MESSAGE value="leetCode 1,2,3,4,5" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetCode 1,2,3,4,5" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -568,14 +576,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="224" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586274067404" />
+    <state x="449" y="0" key="CommitChangelistDialog2" timestamp="1586275727432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586275727432" />
     <state x="330" y="69" key="SettingsEditor" timestamp="1586274242107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="330" y="69" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586274242107" />
-    <state x="552" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1586274189926">
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1586275797541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586274189926" />
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586275797541" />
+    <state x="552" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1586339353201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586339353201" />
     <state x="563" y="347" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586274251209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
