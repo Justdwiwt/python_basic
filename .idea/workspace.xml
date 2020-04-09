@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/Solution_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="leetCode 6,7,8,9,10">
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/Solution_15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,18 +112,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="E:\workspace\pycharm\python_basic\.idea" />
-      </set>
-    </option>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="40ee0ba6-51a5-4417-8cb0-92f4b038b857" />
   </component>
   <component name="ProjectId" id="1OUNH9KKqSP7zZ2u4iHNJ457Axr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -126,7 +140,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -306,18 +320,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -346,7 +348,9 @@
       <workItem from="1586274050862" duration="42000" />
       <workItem from="1586274103735" duration="71000" />
       <workItem from="1586274187359" duration="1674000" />
-      <workItem from="1586339352499" duration="523000" />
+      <workItem from="1586339352499" duration="724000" />
+      <workItem from="1586423176667" duration="256000" />
+      <workItem from="1586423444047" duration="1436000" />
     </task>
     <task id="LOCAL-00001" summary="refactor MovieTop.py">
       <created>1537270409541</created>
@@ -509,20 +513,25 @@
       <option name="project" value="LOCAL" />
       <updated>1586275729098</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="leetCode 6,7,8,9,10">
+      <created>1586340014191</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1586340014191</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -541,6 +550,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
@@ -568,7 +578,8 @@
     <MESSAGE value="usb copy" />
     <MESSAGE value="update path" />
     <MESSAGE value="leetCode 1,2,3,4,5" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetCode 1,2,3,4,5" />
+    <MESSAGE value="leetCode 6,7,8,9,10" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetCode 6,7,8,9,10" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -576,18 +587,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="224" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586274067404" />
-    <state x="449" y="0" key="CommitChangelistDialog2" timestamp="1586275727432">
+    <state x="507" y="0" key="CommitChangelistDialog2" timestamp="1586424334018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="449" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586275727432" />
-    <state x="330" y="69" key="SettingsEditor" timestamp="1586274242107">
+    <state x="507" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586424334018" />
+    <state x="437" y="188" key="IDE.errors.dialog" timestamp="1586423533974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="330" y="69" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586274242107" />
-    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1586275797541">
+    <state x="437" y="188" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586423533974" />
+    <state x="331" y="38" width="1313" height="937" key="SettingsEditor" timestamp="1586424878610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586275797541" />
+    <state x="331" y="38" width="1313" height="937" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586424878610" />
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1586340019835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586340019835" />
     <state x="552" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1586339353201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
