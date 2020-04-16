@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb8be552-056d-4524-806e-a6d9bdbd8d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Solution_41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution_42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution_43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution_44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution_45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution_46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution_47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution_48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution_49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution_50.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -366,7 +366,8 @@
       <workItem from="1586680809798" duration="588000" />
       <workItem from="1586768709570" duration="534000" />
       <workItem from="1586855058529" duration="1275000" />
-      <workItem from="1586942649056" duration="540000" />
+      <workItem from="1586942649056" duration="589000" />
+      <workItem from="1587028755404" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="refactor MovieTop.py">
       <created>1537270409541</created>
@@ -578,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586857850139</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="leetCode 41,42,43,44,45">
+      <created>1586943213501</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1586943213501</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +621,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="init.py" />
     <MESSAGE value="get 'https://book.douban.com/latest' content" />
     <MESSAGE value="decode test" />
     <MESSAGE value="analysis test" />
@@ -638,7 +645,8 @@
     <MESSAGE value="leetCode 26,27,28,29,30" />
     <MESSAGE value="leetCode 31,32,33,34,35" />
     <MESSAGE value="leetCode 36,37,38,39,40" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetCode 36,37,38,39,40" />
+    <MESSAGE value="leetCode 41,42,43,44,45" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetCode 41,42,43,44,45" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -646,10 +654,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="224" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586274067404" />
-    <state x="494" y="0" key="CommitChangelistDialog2" timestamp="1586857848464">
+    <state x="494" y="0" key="CommitChangelistDialog2" timestamp="1586943211848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="494" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586857848464" />
+    <state x="494" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586943211848" />
     <state x="677" y="203" key="FileChooserDialogImpl" timestamp="1586429552388">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -666,14 +674,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1586430179632" />
-    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1586857855989">
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1586943218667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586857855989" />
-    <state x="552" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1586942700082">
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586943218667" />
+    <state x="552" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1587028815938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586942700082" />
+    <state x="552" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587028815938" />
     <state x="563" y="347" width="833" height="467" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586605136203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
